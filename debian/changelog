@@ -1,4 +1,4 @@
-grub2 (2.12-1deepin9) unstable; urgency=medium
+grub2 (2.12deepin9) unstable; urgency=medium
 
   * set GRUB_DEVICE by env when root is overlayfs
 
